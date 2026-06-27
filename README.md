@@ -136,6 +136,6 @@ See [`docs/DATA_DICTIONARY.md`](docs/DATA_DICTIONARY.md) for full column definit
 ---
 
 ## Author
+Drew
+Built to demonstrate senior-level data engineering 
 
-Built to demonstrate senior-level data engineering capability for the US market.  
-Green card holder · Available immediately · West coast preferred.
